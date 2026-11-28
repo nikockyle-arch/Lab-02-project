@@ -4,7 +4,7 @@ void main() {
   runApp(const MyApp());
 }
 
-// TASK 1: PRODUCT MODEL
+// 
 
 class Product {
   final int id;
@@ -24,8 +24,7 @@ class Product {
   });
 }
 
-// TASK 1: SAMPLE DATA
-// Online images are used for the DartPad demo.
+// 
 
 const List<Product> sampleProducts = [
   Product(
